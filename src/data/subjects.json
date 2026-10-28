@@ -1,0 +1,770 @@
+{
+  "status": "DRAFT: replace with transcription of contents-page photos, then set reviewed=true after Hema checks",
+  "reviewed": false,
+  "subjects": [
+    {
+      "id": "maths",
+      "name": "Mathematics",
+      "kind": "maths",
+      "color": "#e07a5f",
+      "chapters": [
+        {
+          "id": "maths-1",
+          "number": 1,
+          "title": "Number System",
+          "weight": 1
+        },
+        {
+          "id": "maths-2",
+          "number": 2,
+          "title": "Estimation",
+          "weight": 1
+        },
+        {
+          "id": "maths-3",
+          "number": 3,
+          "title": "Numbers in India and International System",
+          "weight": 1
+        },
+        {
+          "id": "maths-4",
+          "number": 4,
+          "title": "Place Value",
+          "weight": 1
+        },
+        {
+          "id": "maths-5",
+          "number": 5,
+          "title": "Natural Numbers and Whole Numbers",
+          "weight": 1
+        },
+        {
+          "id": "maths-6",
+          "number": 6,
+          "title": "Negative Numbers and Integers",
+          "weight": 1
+        },
+        {
+          "id": "maths-7",
+          "number": 7,
+          "title": "Number Line",
+          "weight": 1
+        },
+        {
+          "id": "maths-8",
+          "number": 8,
+          "title": "HCF and LCM",
+          "weight": 1
+        },
+        {
+          "id": "maths-9",
+          "number": 9,
+          "title": "Playing with Numbers",
+          "weight": 1
+        },
+        {
+          "id": "maths-10",
+          "number": 10,
+          "title": "Sets",
+          "weight": 1
+        },
+        {
+          "id": "maths-11",
+          "number": 11,
+          "title": "Ratio",
+          "weight": 1
+        },
+        {
+          "id": "maths-12",
+          "number": 12,
+          "title": "Proportion",
+          "weight": 1
+        },
+        {
+          "id": "maths-13",
+          "number": 13,
+          "title": "Unitary Method",
+          "weight": 1
+        },
+        {
+          "id": "maths-14",
+          "number": 14,
+          "title": "Fractions",
+          "weight": 1
+        },
+        {
+          "id": "maths-15",
+          "number": 15,
+          "title": "Decimal Fractions",
+          "weight": 1
+        },
+        {
+          "id": "maths-16",
+          "number": 16,
+          "title": "Percent",
+          "weight": 1
+        },
+        {
+          "id": "maths-17",
+          "number": 17,
+          "title": "Speed, Distance and Time",
+          "weight": 1
+        },
+        {
+          "id": "maths-18",
+          "number": 18,
+          "title": "Fundamental Concepts of Algebra",
+          "weight": 1
+        },
+        {
+          "id": "maths-19",
+          "number": 19,
+          "title": "Simple Linear Equations",
+          "weight": 1
+        },
+        {
+          "id": "maths-20",
+          "number": 20,
+          "title": "Fundamental Concepts of Geometry",
+          "weight": 1
+        },
+        {
+          "id": "maths-21",
+          "number": 21,
+          "title": "Angles",
+          "weight": 1
+        },
+        {
+          "id": "maths-22",
+          "number": 22,
+          "title": "Properties of Angles and Lines",
+          "weight": 1
+        },
+        {
+          "id": "maths-23",
+          "number": 23,
+          "title": "Triangles",
+          "weight": 1
+        },
+        {
+          "id": "maths-24",
+          "number": 24,
+          "title": "Quadrilaterals",
+          "weight": 1
+        },
+        {
+          "id": "maths-25",
+          "number": 25,
+          "title": "Polygons",
+          "weight": 1
+        },
+        {
+          "id": "maths-26",
+          "number": 26,
+          "title": "The Circle",
+          "weight": 1
+        },
+        {
+          "id": "maths-27",
+          "number": 27,
+          "title": "Symmetry",
+          "weight": 1
+        },
+        {
+          "id": "maths-28",
+          "number": 28,
+          "title": "Recognition of Solids",
+          "weight": 1
+        },
+        {
+          "id": "maths-29",
+          "number": 29,
+          "title": "Perimeter and Area of Plane Figures",
+          "weight": 1
+        },
+        {
+          "id": "maths-30",
+          "number": 30,
+          "title": "Data Handling",
+          "weight": 1
+        }
+      ]
+    },
+    {
+      "id": "history",
+      "name": "History & Civics",
+      "kind": "memory",
+      "color": "#c9a227",
+      "chapters": [
+        {
+          "id": "history-1",
+          "number": 1,
+          "title": "The Harappan Civilisation",
+          "weight": 1
+        },
+        {
+          "id": "history-2",
+          "number": 2,
+          "title": "The Mesopotamian Civilisation",
+          "weight": 1
+        },
+        {
+          "id": "history-3",
+          "number": 3,
+          "title": "The Egyptian Civilisation",
+          "weight": 1
+        },
+        {
+          "id": "history-4",
+          "number": 4,
+          "title": "The Chinese Civilisation",
+          "weight": 1
+        },
+        {
+          "id": "history-5",
+          "number": 5,
+          "title": "The Vedic Period",
+          "weight": 1
+        },
+        {
+          "id": "history-6",
+          "number": 6,
+          "title": "Jainism and Buddhism",
+          "weight": 1
+        },
+        {
+          "id": "history-7",
+          "number": 7,
+          "title": "The Mauryan Empire",
+          "weight": 1
+        },
+        {
+          "id": "history-8",
+          "number": 8,
+          "title": "The Sangam Age",
+          "weight": 1
+        },
+        {
+          "id": "history-9",
+          "number": 9,
+          "title": "The Age of the Guptas",
+          "weight": 1
+        },
+        {
+          "id": "history-10",
+          "number": 10,
+          "title": "The Medieval World: Christianity",
+          "weight": 1
+        },
+        {
+          "id": "history-11",
+          "number": 11,
+          "title": "The Medieval World: Islam",
+          "weight": 1
+        },
+        {
+          "id": "history-12",
+          "number": 12,
+          "title": "Civics: Rural Local Self-Government",
+          "weight": 1
+        },
+        {
+          "id": "history-13",
+          "number": 13,
+          "title": "Civics: Urban Local Self-Government",
+          "weight": 1
+        }
+      ]
+    },
+    {
+      "id": "geography",
+      "name": "Geography",
+      "kind": "memory",
+      "color": "#3d9970",
+      "chapters": [
+        {
+          "id": "geography-1",
+          "number": 1,
+          "title": "Representation of Geographical Features",
+          "weight": 1
+        },
+        {
+          "id": "geography-2",
+          "number": 2,
+          "title": "Maps and Globes",
+          "weight": 1
+        },
+        {
+          "id": "geography-3",
+          "number": 3,
+          "title": "Latitudes and Longitudes",
+          "weight": 1
+        },
+        {
+          "id": "geography-4",
+          "number": 4,
+          "title": "Rotation and Revolution",
+          "weight": 1
+        },
+        {
+          "id": "geography-5",
+          "number": 5,
+          "title": "Landforms of the Earth",
+          "weight": 1
+        },
+        {
+          "id": "geography-6",
+          "number": 6,
+          "title": "Water Bodies",
+          "weight": 1
+        },
+        {
+          "id": "geography-7",
+          "number": 7,
+          "title": "Minerals",
+          "weight": 1
+        },
+        {
+          "id": "geography-8",
+          "number": 8,
+          "title": "Agriculture",
+          "weight": 1
+        },
+        {
+          "id": "geography-9",
+          "number": 9,
+          "title": "Asia: Location, Extent and Physical Features",
+          "weight": 1
+        },
+        {
+          "id": "geography-10",
+          "number": 10,
+          "title": "Asia: Climate and Natural Vegetation",
+          "weight": 1
+        },
+        {
+          "id": "geography-11",
+          "number": 11,
+          "title": "India: Location, Extent and Physical Features",
+          "weight": 1
+        },
+        {
+          "id": "geography-12",
+          "number": 12,
+          "title": "India: Climate and Natural Vegetation",
+          "weight": 1
+        }
+      ]
+    },
+    {
+      "id": "biology",
+      "name": "Biology",
+      "kind": "memory",
+      "color": "#6ab04c",
+      "chapters": [
+        {
+          "id": "biology-1",
+          "number": 1,
+          "title": "The Leaf",
+          "weight": 1
+        },
+        {
+          "id": "biology-2",
+          "number": 2,
+          "title": "The Flower",
+          "weight": 1
+        },
+        {
+          "id": "biology-3",
+          "number": 3,
+          "title": "Pollination and Fertilisation",
+          "weight": 1
+        },
+        {
+          "id": "biology-4",
+          "number": 4,
+          "title": "Cell: Structure and Functions",
+          "weight": 1
+        },
+        {
+          "id": "biology-5",
+          "number": 5,
+          "title": "The Digestive System",
+          "weight": 1
+        },
+        {
+          "id": "biology-6",
+          "number": 6,
+          "title": "Health and Hygiene",
+          "weight": 1
+        },
+        {
+          "id": "biology-7",
+          "number": 7,
+          "title": "Habitat and Adaptation",
+          "weight": 1
+        },
+        {
+          "id": "biology-8",
+          "number": 8,
+          "title": "Classification of Living Things",
+          "weight": 1
+        }
+      ]
+    },
+    {
+      "id": "physics",
+      "name": "Physics",
+      "kind": "science",
+      "color": "#4a90d9",
+      "chapters": [
+        {
+          "id": "physics-1",
+          "number": 1,
+          "title": "Matter",
+          "weight": 1
+        },
+        {
+          "id": "physics-2",
+          "number": 2,
+          "title": "Physical Quantities and Measurement",
+          "weight": 1
+        },
+        {
+          "id": "physics-3",
+          "number": 3,
+          "title": "Force",
+          "weight": 1
+        },
+        {
+          "id": "physics-4",
+          "number": 4,
+          "title": "Simple Machines",
+          "weight": 1
+        },
+        {
+          "id": "physics-5",
+          "number": 5,
+          "title": "Light Energy",
+          "weight": 1
+        },
+        {
+          "id": "physics-6",
+          "number": 6,
+          "title": "Heat Energy",
+          "weight": 1
+        },
+        {
+          "id": "physics-7",
+          "number": 7,
+          "title": "Magnetism",
+          "weight": 1
+        }
+      ]
+    },
+    {
+      "id": "chemistry",
+      "name": "Chemistry",
+      "kind": "science",
+      "color": "#9b59b6",
+      "chapters": [
+        {
+          "id": "chemistry-1",
+          "number": 1,
+          "title": "Introduction to Chemistry",
+          "weight": 1
+        },
+        {
+          "id": "chemistry-2",
+          "number": 2,
+          "title": "Elements, Compounds, Symbols and Formulae",
+          "weight": 1
+        },
+        {
+          "id": "chemistry-3",
+          "number": 3,
+          "title": "Physical and Chemical Changes",
+          "weight": 1
+        },
+        {
+          "id": "chemistry-4",
+          "number": 4,
+          "title": "Matter and its States",
+          "weight": 1
+        },
+        {
+          "id": "chemistry-5",
+          "number": 5,
+          "title": "Air and Atmosphere",
+          "weight": 1
+        },
+        {
+          "id": "chemistry-6",
+          "number": 6,
+          "title": "Separation of Mixtures",
+          "weight": 1
+        }
+      ]
+    },
+    {
+      "id": "computers",
+      "name": "Computer Studies",
+      "kind": "other",
+      "color": "#16a085",
+      "chapters": [
+        {
+          "id": "computers-1",
+          "number": 1,
+          "title": "Know Your Computer",
+          "weight": 1
+        },
+        {
+          "id": "computers-2",
+          "number": 2,
+          "title": "Number Systems",
+          "weight": 1
+        },
+        {
+          "id": "computers-3",
+          "number": 3,
+          "title": "Operating System Basics",
+          "weight": 1
+        },
+        {
+          "id": "computers-4",
+          "number": 4,
+          "title": "Word Processing",
+          "weight": 1
+        },
+        {
+          "id": "computers-5",
+          "number": 5,
+          "title": "Presentations",
+          "weight": 1
+        },
+        {
+          "id": "computers-6",
+          "number": 6,
+          "title": "Spreadsheets",
+          "weight": 1
+        },
+        {
+          "id": "computers-7",
+          "number": 7,
+          "title": "Introduction to Programming",
+          "weight": 1
+        },
+        {
+          "id": "computers-8",
+          "number": 8,
+          "title": "Internet Safety",
+          "weight": 1
+        }
+      ]
+    },
+    {
+      "id": "english-lang",
+      "name": "English Language",
+      "kind": "language",
+      "color": "#d35400",
+      "chapters": [
+        {
+          "id": "english-lang-1",
+          "number": 1,
+          "title": "Nouns and Pronouns",
+          "weight": 1
+        },
+        {
+          "id": "english-lang-2",
+          "number": 2,
+          "title": "Adjectives",
+          "weight": 1
+        },
+        {
+          "id": "english-lang-3",
+          "number": 3,
+          "title": "Verbs and Tenses",
+          "weight": 1
+        },
+        {
+          "id": "english-lang-4",
+          "number": 4,
+          "title": "Adverbs",
+          "weight": 1
+        },
+        {
+          "id": "english-lang-5",
+          "number": 5,
+          "title": "Prepositions and Conjunctions",
+          "weight": 1
+        },
+        {
+          "id": "english-lang-6",
+          "number": 6,
+          "title": "Subject-Verb Agreement",
+          "weight": 1
+        },
+        {
+          "id": "english-lang-7",
+          "number": 7,
+          "title": "Punctuation",
+          "weight": 1
+        },
+        {
+          "id": "english-lang-8",
+          "number": 8,
+          "title": "Story Writing",
+          "weight": 1
+        },
+        {
+          "id": "english-lang-9",
+          "number": 9,
+          "title": "Descriptive Essay",
+          "weight": 1
+        },
+        {
+          "id": "english-lang-10",
+          "number": 10,
+          "title": "Informal Letter",
+          "weight": 1
+        },
+        {
+          "id": "english-lang-11",
+          "number": 11,
+          "title": "Formal Letter",
+          "weight": 1
+        },
+        {
+          "id": "english-lang-12",
+          "number": 12,
+          "title": "Notice and Message Writing",
+          "weight": 1
+        },
+        {
+          "id": "english-lang-13",
+          "number": 13,
+          "title": "Comprehension",
+          "weight": 1
+        },
+        {
+          "id": "english-lang-14",
+          "number": 14,
+          "title": "Vocabulary",
+          "weight": 1
+        }
+      ]
+    },
+    {
+      "id": "english-lit",
+      "name": "English Literature",
+      "kind": "language",
+      "color": "#c0392b",
+      "chapters": [
+        {
+          "id": "english-lit-1",
+          "number": 1,
+          "title": "Unit 1",
+          "weight": 1
+        },
+        {
+          "id": "english-lit-2",
+          "number": 2,
+          "title": "Unit 2",
+          "weight": 1
+        },
+        {
+          "id": "english-lit-3",
+          "number": 3,
+          "title": "Unit 3",
+          "weight": 1
+        },
+        {
+          "id": "english-lit-4",
+          "number": 4,
+          "title": "Unit 4",
+          "weight": 1
+        },
+        {
+          "id": "english-lit-5",
+          "number": 5,
+          "title": "Unit 5",
+          "weight": 1
+        },
+        {
+          "id": "english-lit-6",
+          "number": 6,
+          "title": "Unit 6",
+          "weight": 1
+        },
+        {
+          "id": "english-lit-7",
+          "number": 7,
+          "title": "Unit 7",
+          "weight": 1
+        },
+        {
+          "id": "english-lit-8",
+          "number": 8,
+          "title": "Unit 8",
+          "weight": 1
+        }
+      ]
+    },
+    {
+      "id": "second-lang",
+      "name": "Hindi",
+      "kind": "language",
+      "color": "#e84393",
+      "chapters": [
+        {
+          "id": "second-lang-1",
+          "number": 1,
+          "title": "Unit 1",
+          "weight": 1
+        },
+        {
+          "id": "second-lang-2",
+          "number": 2,
+          "title": "Unit 2",
+          "weight": 1
+        },
+        {
+          "id": "second-lang-3",
+          "number": 3,
+          "title": "Unit 3",
+          "weight": 1
+        },
+        {
+          "id": "second-lang-4",
+          "number": 4,
+          "title": "Unit 4",
+          "weight": 1
+        },
+        {
+          "id": "second-lang-5",
+          "number": 5,
+          "title": "Unit 5",
+          "weight": 1
+        },
+        {
+          "id": "second-lang-6",
+          "number": 6,
+          "title": "Unit 6",
+          "weight": 1
+        },
+        {
+          "id": "second-lang-7",
+          "number": 7,
+          "title": "Unit 7",
+          "weight": 1
+        },
+        {
+          "id": "second-lang-8",
+          "number": 8,
+          "title": "Unit 8",
+          "weight": 1
+        }
+      ]
+    }
+  ]
+}

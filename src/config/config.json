@@ -1,0 +1,83 @@
+{
+  "_note": "All tunable game values live here. Tune after the trial week. Restart / rebuild after editing.",
+  "blocks": {
+    "maxPerDay": 3,
+    "focusMinutes": 25,
+    "mathsPracticeMinutes": 15,
+    "shortBlockMinutes": 15,
+    "breakMinutes": 5,
+    "minFractionToLog": 0.8,
+    "lightDayMinutes": 25,
+    "halfBlockMinutes": 13
+  },
+  "gate": {
+    "takeawaysRequired": 5,
+    "takeawaysRequiredLightDay": 3,
+    "minWordsPerTakeaway": 6,
+    "nearDuplicateThreshold": 0.7,
+    "minWordsMistakeNote": 5
+  },
+  "playTime": {
+    "baseMinutes": 15,
+    "extraBlockMinutes": 5,
+    "maxExtraBlocksPerDay": 1,
+    "mistakeMinutes": 5,
+    "maxMistakeBonusesPerDay": 2,
+    "recallStrongThreshold": 0.8,
+    "recallStrongMinutes": 10,
+    "recallGoodThreshold": 0.6,
+    "recallGoodMinutes": 5,
+    "dailyCeilingMinutes": 40,
+    "carryOverDays": 1
+  },
+  "gp": {
+    "block": 10,
+    "recall": 5,
+    "mistake": 3,
+    "maxMistakeGpPerDay": 2,
+    "extraBlock": 5,
+    "unusedLightTokenWeek": 10
+  },
+  "stages": [
+    { "id": "egg", "name": "Egg", "gp": 0 },
+    { "id": "hatchling", "name": "Hatchling", "gp": 30 },
+    { "id": "juvenile", "name": "Juvenile", "gp": 400 },
+    { "id": "teen", "name": "Teen", "gp": 800 },
+    { "id": "adult", "name": "Adult", "gp": 1250 },
+    { "id": "mythic", "name": "Mythic", "gp": 1700 }
+  ],
+  "hatchAfterBlocks": 2,
+  "consistency": {
+    "windowDays": 7,
+    "requiredDays": 5
+  },
+  "recall": {
+    "intervalsDays": [1, 3, 7, 21],
+    "minQuestions": 3,
+    "maxQuestions": 5,
+    "memorySubjectWeight": 2
+  },
+  "swaps": {
+    "avoidanceThreshold": 3
+  },
+  "mistakeCategories": [
+    { "id": "misread", "label": "Misread the question", "icon": "🔍" },
+    { "id": "operator", "label": "Wrong operator or number", "icon": "➗" },
+    { "id": "marks", "label": "Ignored marks allotted", "icon": "📏" },
+    { "id": "fact", "label": "Forgot a fact", "icon": "🧠" },
+    { "id": "slip", "label": "Spelling or silly slip", "icon": "✏️" }
+  ],
+  "exerciseTypes": [
+    "Read the chapter",
+    "Back-of-chapter questions",
+    "Quiz",
+    "Tables",
+    "Match the following",
+    "Define / terms",
+    "Grammar exercises",
+    "Practice sums",
+    "Additional reading online",
+    "Drawing / diagram",
+    "Other"
+  ]
+}
